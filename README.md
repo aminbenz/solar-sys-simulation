@@ -1,7 +1,5 @@
 # Solar Sys Simulation
 
-#### Video Demo: <https://youtu.be/zC4H-ZG-vbM>
-
 #### Description: This project explore the dynamic orbital motion of planets in the Solar System with this captivating Python project using Pygame. Gain insights into gravitational forces governing planetary orbits.
 
 ## Overview
